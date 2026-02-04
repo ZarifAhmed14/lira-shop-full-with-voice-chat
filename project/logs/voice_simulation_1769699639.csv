@@ -1,0 +1,227 @@
+customer_id,mode,query,response,ai_cost,stt_cost,tts_cost,total_cost,input_tokens,output_tokens,audio_duration
+sim_user_1,text,Does Volumizing Mascara contain vitamin C?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_1,text,Does Green Tea Face Mist contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_1,text,Is Berry Kiss Lipstick waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_1,text,Is Volumizing Mascara waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_1,text,How do I use Exfoliating Scrub?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_2,voice,Do you have any recommendations for oily skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00038805,0.0,0.00038805,0,0,12.585251553345799
+sim_user_2,voice,Can you tell me about the features of Deep Cleanse Charcoal Mask?,Error: Groq API key missing or SDK not installed.,0.0,0.0003098,0.0,0.0003098,0,0,10.047718473508265
+sim_user_2,voice,Do you have any recommendations for normal skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00028924,0.0,0.00028924,0,0,9.380734511547193
+sim_user_2,voice,How do I use Daily Daily Moisturizer?,Error: Groq API key missing or SDK not installed.,0.0,0.00035979,0.0,0.00035979,0,0,11.668840957899887
+sim_user_3,text,What are the main ingredients in Gentle Foam Cleanser?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_3,text,"I have sensitive skin, is Green Tea Face Mist suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_3,text,"I have normal skin, is Volumizing Mascara suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_3,text,What is the price of Gentle Foam Cleanser?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_3,text,I'm looking for something from Lira Luxe.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_4,text,Does Rose Water Toner contain fragrance?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_4,text,I'm looking for something from PureBasics.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_4,text,"I have combination skin, is Rose Water Toner suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_4,text,What is the price of Night Repair Cream?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_5,text,What is the price of Matte Finish Foundation?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_5,text,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_5,text,Is Sunset Blush Palette good for dry skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_5,text,What is the price of Velvet Lip Liner?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_6,text,Does Tea Tree Spot Treatment contain fragrance?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_6,text,How do I use Deep Cleanse Charcoal Mask?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_6,text,What are the main ingredients in Glossy Shine Lip Gloss?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_6,text,Does Glossy Shine Lip Gloss contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_7,voice,How do I use Daily Daily Moisturizer?,Error: Groq API key missing or SDK not installed.,0.0,0.00033169,0.0,0.00033169,0,0,10.757541767042348
+sim_user_7,voice,What is the price of Night Repair Cream?,Error: Groq API key missing or SDK not installed.,0.0,0.00030344,0.0,0.00030344,0,0,9.841269103343029
+sim_user_7,voice,I'm looking for something from ColorPop.,Error: Groq API key missing or SDK not installed.,0.0,0.00039052,0.0,0.00039052,0,0,12.665496817955368
+sim_user_7,voice,What is the price of Brow Sculpting Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.00036732,0.0,0.00036732,0,0,11.912950943898696
+sim_user_7,voice,Is Exfoliating Scrub waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.0004098,0.0,0.0004098,0,0,13.290919210859588
+sim_user_8,voice,What are the main ingredients in Rose Water Toner?,Error: Groq API key missing or SDK not installed.,0.0,0.00019163,0.0,0.00019163,0,0,6.215058243282873
+sim_user_8,voice,Does Matte Finish Foundation contain fragrance?,Error: Groq API key missing or SDK not installed.,0.0,0.0002609,0.0,0.0002609,0,0,8.461765855735564
+sim_user_8,voice,What are the main ingredients in Berry Kiss Lipstick?,Error: Groq API key missing or SDK not installed.,0.0,0.00042457,0.0,0.00042457,0,0,13.769817745346009
+sim_user_8,voice,Is Tea Tree Spot Treatment waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00027041,0.0,0.00027041,0,0,8.770099203586815
+sim_user_8,voice,What are the main ingredients in Soothing Aloe Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.00026877,0.0,0.00026877,0,0,8.716966654498789
+sim_user_9,text,Does Velvet Lip Liner contain retinol?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_9,text,Does Vitamin C Radiance Oil contain parabens?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_9,text,"I have oily skin, is Velvet Lip Liner suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_9,text,Does Volumizing Mascara contain vitamin C?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_10,text,Is Brow Sculpting Gel good for mature skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_10,text,What are the main ingredients in Night Repair Cream?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_10,text,"I have mature skin, is Sunset Blush Palette suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_10,text,What is the price of Rose Water Toner?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_10,text,Does Night Repair Cream contain aloe vera?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_11,voice,I'm looking for something from NatureTouch.,Error: Groq API key missing or SDK not installed.,0.0,0.00040603,0.0,0.00040603,0,0,13.16845935968157
+sim_user_11,voice,Can you tell me about the features of Volumizing Mascara?,Error: Groq API key missing or SDK not installed.,0.0,0.00031506,0.0,0.00031506,0,0,10.218074251098747
+sim_user_11,voice,Is Sunset Blush Palette waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00043871,0.0,0.00043871,0,0,14.228341342500025
+sim_user_11,voice,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0.00022379,0.0,0.00022379,0,0,7.257967112276985
+sim_user_11,voice,What is the price of Tea Tree Spot Treatment?,Error: Groq API key missing or SDK not installed.,0.0,0.00016897,0.0,0.00016897,0,0,5.480119967217799
+sim_user_12,text,I'm looking for something from PureBasics.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_12,text,I'm looking for something from NatureTouch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_12,text,How do I use Green Tea Face Mist?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_12,text,What are the main ingredients in Soothing Aloe Gel?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_13,voice,What is the price of Soothing Aloe Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.00034026,0.0,0.00034026,0,0,11.0353718937514
+sim_user_13,voice,What is the price of Velvet Lip Liner?,Error: Groq API key missing or SDK not installed.,0.0,0.00044098,0.0,0.00044098,0,0,14.302172156420632
+sim_user_13,voice,What is the price of Velvet Lip Liner?,Error: Groq API key missing or SDK not installed.,0.0,0.00028027,0.0,0.00028027,0,0,9.089789572724738
+sim_user_13,voice,Does Lash Primer contain retinol?,Error: Groq API key missing or SDK not installed.,0.0,0.00035544,0.0,0.00035544,0,0,11.527798051954024
+sim_user_13,voice,What are the main ingredients in Brow Sculpting Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.00029644,0.0,0.00029644,0,0,9.61424405244634
+sim_user_14,text,Does Matte Finish Foundation contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_14,text,How do I use Tea Tree Spot Treatment?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_14,text,Can you tell me about the features of Vitamin C Radiance Oil?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_14,text,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_14,text,How do I use Gentle Foam Cleanser?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_15,text,How do I use Gentle Foam Cleanser?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_15,text,Is Vitamin C Radiance Oil good for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_15,text,Can you tell me about the features of Tea Tree Spot Treatment?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_15,text,Is Green Tea Face Mist waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_15,text,"I have dry skin, is Lash Primer suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_16,text,Is Exfoliating Scrub good for sensitive skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_16,text,How do I use Lash Primer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_16,text,What is the price of Exfoliating Scrub?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_16,text,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_17,voice,Can you tell me about the features of Brow Sculpting Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.00030275,0.0,0.00030275,0,0,9.818918740974617
+sim_user_17,voice,I'm looking for something from ColorPop.,Error: Groq API key missing or SDK not installed.,0.0,0.00030988,0.0,0.00030988,0,0,10.050080195916289
+sim_user_17,voice,Can you tell me about the features of Night Repair Cream?,Error: Groq API key missing or SDK not installed.,0.0,0.00038061,0.0,0.00038061,0,0,12.344261285423727
+sim_user_17,voice,Does Soothing Aloe Gel contain fragrance?,Error: Groq API key missing or SDK not installed.,0.0,0.00043795,0.0,0.00043795,0,0,14.203626529684065
+sim_user_18,voice,Is Velvet Lip Liner good for normal skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00035525,0.0,0.00035525,0,0,11.521513421297973
+sim_user_18,voice,Does Precision Liquid Liner contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0.00035009,0.0,0.00035009,0,0,11.35431806762933
+sim_user_18,voice,Do you have any recommendations for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00017988,0.0,0.00017988,0,0,5.833928397457743
+sim_user_18,voice,I'm looking for something from ColorPop.,Error: Groq API key missing or SDK not installed.,0.0,0.00022634,0.0,0.00022634,0,0,7.340701614802008
+sim_user_18,voice,Does Deep Cleanse Charcoal Mask contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0.00043647,0.0,0.00043647,0,0,14.155911822430832
+sim_user_19,text,What is the price of Brow Sculpting Gel?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_19,text,What are the main ingredients in Rose Water Toner?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_19,text,What are the main ingredients in Green Tea Face Mist?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_19,text,How do I use Volumizing Mascara?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_20,text,Is Soothing Aloe Gel good for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_20,text,Do you have any recommendations for dry skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_20,text,"I have oily skin, is Vitamin C Radiance Oil suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_20,text,How do I use Deep Cleanse Charcoal Mask?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_20,text,What are the main ingredients in Hydra Glow Serum?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_21,voice,How do I use Hydra Glow Serum?,Error: Groq API key missing or SDK not installed.,0.0,0.0001797,0.0,0.0001797,0,0,5.828094596195434
+sim_user_21,voice,Is Green Tea Face Mist good for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00023196,0.0,0.00023196,0,0,7.522885804740841
+sim_user_21,voice,What is the price of Berry Kiss Lipstick?,Error: Groq API key missing or SDK not installed.,0.0,0.00040962,0.0,0.00040962,0,0,13.285057895791885
+sim_user_21,voice,What is the price of Gentle Foam Cleanser?,Error: Groq API key missing or SDK not installed.,0.0,0.00029978,0.0,0.00029978,0,0,9.722488561887626
+sim_user_21,voice,How do I use Lash Primer?,Error: Groq API key missing or SDK not installed.,0.0,0.00028246,0.0,0.00028246,0,0,9.160729457575378
+sim_user_22,text,I'm looking for something from PureBasics.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_22,text,Is Matte Finish Foundation waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_22,text,Is Daily Daily Moisturizer waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_22,text,I'm looking for something from Lira Luxe.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_23,text,"I have combination skin, is Volumizing Mascara suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_23,text,I'm looking for something from Lira Luxe.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_23,text,What are the main ingredients in Lash Primer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_23,text,What are the main ingredients in Daily Daily Moisturizer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_23,text,Can you tell me about the features of Daily Daily Moisturizer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_24,voice,I'm looking for something from NatureTouch.,Error: Groq API key missing or SDK not installed.,0.0,0.0002197,0.0,0.0002197,0,0,7.125244453053598
+sim_user_24,voice,What are the main ingredients in Matte Finish Foundation?,Error: Groq API key missing or SDK not installed.,0.0,0.00019664,0.0,0.00019664,0,0,6.377661699079596
+sim_user_24,voice,I'm looking for something from Lira Luxe.,Error: Groq API key missing or SDK not installed.,0.0,0.00027798,0.0,0.00027798,0,0,9.015598455261301
+sim_user_24,voice,Is Night Repair Cream waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00019129,0.0,0.00019129,0,0,6.20403023897145
+sim_user_24,voice,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0.00035624,0.0,0.00035624,0,0,11.553845621994444
+sim_user_25,text,What is the price of Matte Finish Foundation?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_25,text,Is Sunset Blush Palette good for mature skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_25,text,"I have sensitive skin, is Deep Cleanse Charcoal Mask suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_25,text,Does Velvet Lip Liner contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_25,text,Is Hydra Glow Serum waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_26,voice,Is Night Repair Cream waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00038866,0.0,0.00038866,0,0,12.605067939263797
+sim_user_26,voice,Do you have any recommendations for sensitive skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00037045,0.0,0.00037045,0,0,12.014694072521714
+sim_user_26,voice,How do I use Daily Daily Moisturizer?,Error: Groq API key missing or SDK not installed.,0.0,0.00043436,0.0,0.00043436,0,0,14.087486633391919
+sim_user_26,voice,What is the price of Night Repair Cream?,Error: Groq API key missing or SDK not installed.,0.0,0.00035046,0.0,0.00035046,0,0,11.366383875533018
+sim_user_27,text,Is Lash Primer waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_27,text,How do I use Precision Liquid Liner?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_27,text,Is Berry Kiss Lipstick waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_27,text,How do I use Glossy Shine Lip Gloss?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_27,text,Is Sunset Blush Palette good for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_28,text,What are the main ingredients in Exfoliating Scrub?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_28,text,Do you have any recommendations for mature skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_28,text,"I have dry skin, is Exfoliating Scrub suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_28,text,How do I use Tea Tree Spot Treatment?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_28,text,Does Precision Liquid Liner contain aloe vera?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_29,voice,I'm looking for something from ColorPop.,Error: Groq API key missing or SDK not installed.,0.0,0.0003532,0.0,0.0003532,0,0,11.455057485255594
+sim_user_29,voice,What is the price of Velvet Lip Liner?,Error: Groq API key missing or SDK not installed.,0.0,0.00037393,0.0,0.00037393,0,0,12.127471144183842
+sim_user_29,voice,Can you tell me about the features of Velvet Lip Liner?,Error: Groq API key missing or SDK not installed.,0.0,0.00036127,0.0,0.00036127,0,0,11.716849891792746
+sim_user_29,voice,What is the price of Soothing Aloe Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.000456,0.0,0.000456,0,0,14.789212700950355
+sim_user_30,text,"I have combination skin, is Night Repair Cream suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_30,text,Do you have any recommendations for oily skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_30,text,What is the price of Sunset Blush Palette?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_30,text,"I have combination skin, is Gentle Foam Cleanser suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_30,text,"I have combination skin, is Exfoliating Scrub suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_31,text,Is Brow Sculpting Gel good for dry skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_31,text,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_31,text,Do you have any recommendations for oily skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_31,text,What are the main ingredients in Deep Cleanse Charcoal Mask?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_32,voice,How do I use Gentle Foam Cleanser?,Error: Groq API key missing or SDK not installed.,0.0,0.00026383,0.0,0.00026383,0,0,8.55672573696162
+sim_user_32,voice,Can you tell me about the features of Green Tea Face Mist?,Error: Groq API key missing or SDK not installed.,0.0,0.00045337,0.0,0.00045337,0,0,14.70377451408309
+sim_user_32,voice,Can you tell me about the features of Matte Finish Foundation?,Error: Groq API key missing or SDK not installed.,0.0,0.00040333,0.0,0.00040333,0,0,13.081070106856576
+sim_user_32,voice,How do I use Lash Primer?,Error: Groq API key missing or SDK not installed.,0.0,0.00033867,0.0,0.00033867,0,0,10.98374787287004
+sim_user_32,voice,What is the price of Tea Tree Spot Treatment?,Error: Groq API key missing or SDK not installed.,0.0,0.00019564,0.0,0.00019564,0,0,6.345100489730678
+sim_user_33,voice,Does Sunset Blush Palette contain parabens?,Error: Groq API key missing or SDK not installed.,0.0,0.00040122,0.0,0.00040122,0,0,13.012424948347252
+sim_user_33,voice,What is the price of Exfoliating Scrub?,Error: Groq API key missing or SDK not installed.,0.0,0.00028982,0.0,0.00028982,0,0,9.399705713930926
+sim_user_33,voice,How do I use Sunset Blush Palette?,Error: Groq API key missing or SDK not installed.,0.0,0.00020401,0.0,0.00020401,0,0,6.616485768107422
+sim_user_33,voice,Can you tell me about the features of Exfoliating Scrub?,Error: Groq API key missing or SDK not installed.,0.0,0.00036729,0.0,0.00036729,0,0,11.91215756755895
+sim_user_34,text,"I have acne-prone skin, is Matte Finish Foundation suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_34,text,What are the main ingredients in Berry Kiss Lipstick?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_34,text,What is the price of Hydra Glow Serum?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_34,text,Do you have any recommendations for normal skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_35,voice,Is Berry Kiss Lipstick waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00039424,0.0,0.00039424,0,0,12.78628942642013
+sim_user_35,voice,Can you tell me about the features of Night Repair Cream?,Error: Groq API key missing or SDK not installed.,0.0,0.0001918,0.0,0.0001918,0,0,6.220593744343308
+sim_user_35,voice,Can you tell me about the features of Green Tea Face Mist?,Error: Groq API key missing or SDK not installed.,0.0,0.0002893,0.0,0.0002893,0,0,9.382780633999703
+sim_user_35,voice,What is the price of Sunset Blush Palette?,Error: Groq API key missing or SDK not installed.,0.0,0.00027817,0.0,0.00027817,0,0,9.021718909557723
+sim_user_36,text,Do you have any recommendations for oily skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_36,text,What is the price of Lash Primer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_36,text,What are the main ingredients in Green Tea Face Mist?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_36,text,Is Tea Tree Spot Treatment waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_36,text,I'm looking for something from NatureTouch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_37,voice,"I have acne-prone skin, is Precision Liquid Liner suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0.00034468,0.0,0.00034468,0,0,11.178814313680558
+sim_user_37,voice,How do I use Exfoliating Scrub?,Error: Groq API key missing or SDK not installed.,0.0,0.00026699,0.0,0.00026699,0,0,8.658983369136172
+sim_user_37,voice,Is Rose Water Toner waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00031471,0.0,0.00031471,0,0,10.206837327583699
+sim_user_37,voice,Is Berry Kiss Lipstick waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00023124,0.0,0.00023124,0,0,7.499675918115047
+sim_user_37,voice,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0.00035481,0.0,0.00035481,0,0,11.507415998102662
+sim_user_38,voice,"I have sensitive skin, is Deep Cleanse Charcoal Mask suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0.00039612,0.0,0.00039612,0,0,12.847131468087277
+sim_user_38,voice,Does Vitamin C Radiance Oil contain retinol?,Error: Groq API key missing or SDK not installed.,0.0,0.00037185,0.0,0.00037185,0,0,12.059931793711769
+sim_user_38,voice,"I have normal skin, is Tea Tree Spot Treatment suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0.00041586,0.0,0.00041586,0,0,13.487505341856362
+sim_user_38,voice,Is Vitamin C Radiance Oil good for acne-prone skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00037456,0.0,0.00037456,0,0,12.147846777713724
+sim_user_39,voice,Is Exfoliating Scrub good for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00030477,0.0,0.00030477,0,0,9.884458227589446
+sim_user_39,voice,"I have dry skin, is Berry Kiss Lipstick suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0.00016763,0.0,0.00016763,0,0,5.436493855168292
+sim_user_39,voice,"I have oily skin, is Sunset Blush Palette suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0.00020991,0.0,0.00020991,0,0,6.807978298212246
+sim_user_39,voice,Does Tea Tree Spot Treatment contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0.00023014,0.0,0.00023014,0,0,7.46392650934161
+sim_user_39,voice,What is the price of Glossy Shine Lip Gloss?,Error: Groq API key missing or SDK not installed.,0.0,0.00018472,0.0,0.00018472,0,0,5.991075962192652
+sim_user_40,voice,Is Glossy Shine Lip Gloss waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00040171,0.0,0.00040171,0,0,13.028432662746495
+sim_user_40,voice,What are the main ingredients in Berry Kiss Lipstick?,Error: Groq API key missing or SDK not installed.,0.0,0.0004321,0.0,0.0004321,0,0,14.013952891524891
+sim_user_40,voice,Does Tea Tree Spot Treatment contain vitamin C?,Error: Groq API key missing or SDK not installed.,0.0,0.00019139,0.0,0.00019139,0,0,6.20729388096446
+sim_user_40,voice,Is Berry Kiss Lipstick good for acne-prone skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00019527,0.0,0.00019527,0,0,6.332991913055556
+sim_user_41,text,How do I use Soothing Aloe Gel?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_41,text,Does Lash Primer contain aloe vera?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_41,text,Does Glossy Shine Lip Gloss contain vitamin C?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_41,text,Does Deep Cleanse Charcoal Mask contain retinol?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_41,text,Do you have any recommendations for oily skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_42,voice,Can you tell me about the features of Brow Sculpting Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.00041175,0.0,0.00041175,0,0,13.353983831647685
+sim_user_42,voice,"I have sensitive skin, is Brow Sculpting Gel suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0.00032041,0.0,0.00032041,0,0,10.391657356875427
+sim_user_42,voice,Is Glossy Shine Lip Gloss good for normal skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00038272,0.0,0.00038272,0,0,12.412592108792053
+sim_user_42,voice,Is Precision Liquid Liner good for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00019754,0.0,0.00019754,0,0,6.406757962822147
+sim_user_43,voice,Does Precision Liquid Liner contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0.00039922,0.0,0.00039922,0,0,12.947516173719826
+sim_user_43,voice,Is Gentle Foam Cleanser good for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00022765,0.0,0.00022765,0,0,7.383204908641142
+sim_user_43,voice,What is the price of Soothing Aloe Gel?,Error: Groq API key missing or SDK not installed.,0.0,0.00038366,0.0,0.00038366,0,0,12.442931335921775
+sim_user_43,voice,Does Berry Kiss Lipstick contain vitamin C?,Error: Groq API key missing or SDK not installed.,0.0,0.00023345,0.0,0.00023345,0,0,7.571429486523828
+sim_user_44,text,What is the price of Daily Daily Moisturizer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_44,text,What is the price of Lash Primer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_44,text,Does Soothing Aloe Gel contain aloe vera?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_44,text,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_44,text,Does Matte Finish Foundation contain parabens?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_45,text,I'm looking for something from ColorPop.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_45,text,Does Deep Cleanse Charcoal Mask contain aloe vera?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_45,text,"I have sensitive skin, is Vitamin C Radiance Oil suitable for me?",Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_45,text,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_46,text,Can you tell me about the features of Green Tea Face Mist?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_46,text,Do you have any recommendations for acne-prone skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_46,text,Does Precision Liquid Liner contain alcohol?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_46,text,Is Hydra Glow Serum waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_47,voice,How do I use Hydra Glow Serum?,Error: Groq API key missing or SDK not installed.,0.0,0.0002946,0.0,0.0002946,0,0,9.554591571038397
+sim_user_47,voice,Does Vitamin C Radiance Oil contain aloe vera?,Error: Groq API key missing or SDK not installed.,0.0,0.00017508,0.0,0.00017508,0,0,5.678271666464219
+sim_user_47,voice,How do I use Night Repair Cream?,Error: Groq API key missing or SDK not installed.,0.0,0.00021353,0.0,0.00021353,0,0,6.925370904141838
+sim_user_47,voice,Does Precision Liquid Liner contain fragrance?,Error: Groq API key missing or SDK not installed.,0.0,0.00037981,0.0,0.00037981,0,0,12.318159040446162
+sim_user_48,text,What is the price of Lash Primer?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_48,text,Do you have any recommendations for mature skin?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_48,text,What are the main ingredients in Exfoliating Scrub?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_48,text,What is the price of Hydra Glow Serum?,Error: Groq API key missing or SDK not installed.,0.0,0,0,0.0,0,0,0
+sim_user_49,voice,I'm looking for something from EyeCatch.,Error: Groq API key missing or SDK not installed.,0.0,0.0001757,0.0,0.0001757,0,0,5.69837945727593
+sim_user_49,voice,Is Hydra Glow Serum waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00043943,0.0,0.00043943,0,0,14.251735882790094
+sim_user_49,voice,Do you have any recommendations for combination skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00042734,0.0,0.00042734,0,0,13.859824609302748
+sim_user_49,voice,Is Rose Water Toner waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00031566,0.0,0.00031566,0,0,10.237595235887163
+sim_user_49,voice,Can you tell me about the features of Hydra Glow Serum?,Error: Groq API key missing or SDK not installed.,0.0,0.00041928,0.0,0.00041928,0,0,13.598388837894417
+sim_user_50,voice,Is Lash Primer good for normal skin?,Error: Groq API key missing or SDK not installed.,0.0,0.00035643,0.0,0.00035643,0,0,11.559899365149711
+sim_user_50,voice,Can you tell me about the features of Glossy Shine Lip Gloss?,Error: Groq API key missing or SDK not installed.,0.0,0.00019457,0.0,0.00019457,0,0,6.310233281499285
+sim_user_50,voice,What is the price of Daily Daily Moisturizer?,Error: Groq API key missing or SDK not installed.,0.0,0.00027044,0.0,0.00027044,0,0,8.77098942050413
+sim_user_50,voice,I'm looking for something from ColorPop.,Error: Groq API key missing or SDK not installed.,0.0,0.00021946,0.0,0.00021946,0,0,7.117548931186853
+sim_user_50,voice,Is Daily Daily Moisturizer waterproof?,Error: Groq API key missing or SDK not installed.,0.0,0.00018763,0.0,0.00018763,0,0,6.085416138643028

@@ -1,0 +1,17 @@
+flask
+flask-cors
+python-dotenv
+groq
+google-generativeai
+openai
+requests
+reportlab
+matplotlib
+# Voice AI - Edge TTS (neural, free) + Google TTS (fallback)
+edge-tts
+gTTS
+SpeechRecognition==3.10.0
+pydub==0.25.1
+wave==0.0.2
+# Production Server
+gunicorn

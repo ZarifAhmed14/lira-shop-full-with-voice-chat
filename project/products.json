@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Hydra Glow Serum",
+    "brand": "Lira Luxe",
+    "features": "Hyaluronic acid, Vitamin C, 24h hydration",
+    "ingredients": "Water, Hyaluronic Acid, Ascorbic Acid, Glycerin",
+    "price": 45.00,
+    "skin_type": "Dry/Normal"
+  },
+  {
+    "id": 2,
+    "name": "Matte Finish Foundation",
+    "brand": "Lira Luxe",
+    "features": "Full coverage, oil-free, 12h wear",
+    "ingredients": "Dimethicone, Silica, Water, Iron Oxides",
+    "price": 38.00,
+    "skin_type": "Oily/Combination"
+  },
+  {
+    "id": 3,
+    "name": "Night Repair Cream",
+    "brand": "Lira Luxe",
+    "features": "Retinol-infused, anti-aging, restores elasticity",
+    "ingredients": "Water, Retinol, Shea Butter, Peptides",
+    "price": 55.00,
+    "skin_type": "Mature"
+  },
+  {
+    "id": 4,
+    "name": "Gentle Foam Cleanser",
+    "brand": "PureBasics",
+    "features": "Sulfate-free, pH balanced, soothing",
+    "ingredients": "Water, Coco-Glucoside, Aloe Vera Extract, Chamomile",
+    "price": 18.00,
+    "skin_type": "Sensitive/All"
+  },
+  {
+    "id": 5,
+    "name": "Daily Daily Moisturizer",
+    "brand": "PureBasics",
+    "features": "Lightweight, non-greasy, SPF 15",
+    "ingredients": "Water, Glycerin, Dimethicone, Sunscreen active ingredients",
+    "price": 22.00,
+    "skin_type": "Normal/Combination"
+  },
+  {
+    "id": 6,
+    "name": "Exfoliating Scrub",
+    "brand": "PureBasics",
+    "features": "Natural walnut shell, removes dead skin, brightens",
+    "ingredients": "Water, Walnut Shell Powder, Glyceryl Stearate",
+    "price": 20.00,
+    "skin_type": "All (exc. Sensitive)"
+  },
+  {
+    "id": 7,
+    "name": "Volumizing Mascara",
+    "brand": "EyeCatch",
+    "features": "Waterproof, clump-free, dramatic volume",
+    "ingredients": "Water, Beeswax, Paraffin, Iron Oxides",
+    "price": 24.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 8,
+    "name": "Precision Liquid Liner",
+    "brand": "EyeCatch",
+    "features": "Smudge-proof, fine tip, intense black",
+    "ingredients": "Water, Acrylates Copolymer, Carbon Black",
+    "price": 19.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 9,
+    "name": "Brow Sculpting Gel",
+    "brand": "EyeCatch",
+    "features": "Tinted, long-hold, fibers for fullness",
+    "ingredients": "Water, Alcohol Denat, Mica, Titanium Dioxide",
+    "price": 21.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 10,
+    "name": "Berry Kiss Lipstick",
+    "brand": "ColorPop",
+    "features": "Matte finish, non-drying, high pigment",
+    "ingredients": "Ricinus Communis Oil, Mica, Candelilla Wax",
+    "price": 26.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 11,
+    "name": "Sunset Blush Palette",
+    "brand": "ColorPop",
+    "features": "3 shades, blendable, shimmer and matte",
+    "ingredients": "Talc, Mica, Zinc Stearate, Iron Oxides",
+    "price": 32.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 12,
+    "name": "Glossy Shine Lip Gloss",
+    "brand": "ColorPop",
+    "features": "Non-sticky, high shine, plumping effect",
+    "ingredients": "Polybutene, Octyldodecanol, Mint Extract",
+    "price": 18.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 13,
+    "name": "Soothing Aloe Gel",
+    "brand": "NatureTouch",
+    "features": "99% organic aloe, cools sunburn, hydrates",
+    "ingredients": "Aloe Barbadensis Leaf Juice, Citric Acid",
+    "price": 15.00,
+    "skin_type": "Sensitive/Sun-damaged"
+  },
+  {
+    "id": 14,
+    "name": "Tea Tree Spot Treatment",
+    "brand": "NatureTouch",
+    "features": "Targets acne, reduces redness, antibacterial",
+    "ingredients": "Tea Tree Oil, Witch Hazel, Alcohol",
+    "price": 16.00,
+    "skin_type": "Acne-prone"
+  },
+  {
+    "id": 15,
+    "name": "Rose Water Toner",
+    "brand": "NatureTouch",
+    "features": "Balances pH, refreshes, tightens pores",
+    "ingredients": "Rosa Damascena Flower Water, Glycerin",
+    "price": 20.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 16,
+    "name": "Vitamin C Radiance Oil",
+    "brand": "Lira Luxe",
+    "features": "Brightens, fades dark spots, antioxidant",
+    "ingredients": "Jojoba Oil, Vitamin C (THD Ascorbate), Vitamin E",
+    "price": 52.00,
+    "skin_type": "Dull/All"
+  },
+  {
+    "id": 17,
+    "name": "Deep Cleanse Charcoal Mask",
+    "brand": "PureBasics",
+    "features": "Draws out impurities, minimizes pores",
+    "ingredients": "Water, Kaolin Clay, Charcoal Powder",
+    "price": 25.00,
+    "skin_type": "Oily/Congested"
+  },
+  {
+    "id": 18,
+    "name": "Lash Primer",
+    "brand": "EyeCatch",
+    "features": "Boosts volume, conditions lashes, white base",
+    "ingredients": "Water, Carnauba Wax, Panthenol",
+    "price": 18.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 19,
+    "name": "Velvet Lip Liner",
+    "brand": "ColorPop",
+    "features": "Creamy glide, prevents feathering, waterproof",
+    "ingredients": "Cyclopentasiloxane, Synthetic Wax, Mica",
+    "price": 14.00,
+    "skin_type": "All"
+  },
+  {
+    "id": 20,
+    "name": "Green Tea Face Mist",
+    "brand": "NatureTouch",
+    "features": "Antioxidant rich, sets makeup, hydrates",
+    "ingredients": "Water, Green Tea Extract, Cucumber Water",
+    "price": 17.00,
+    "skin_type": "All"
+  }
+]
